@@ -68,10 +68,10 @@ class Table(object):
         </td>
         <td style="border-color: rgb(12, 12, 12);">
             <p>
-                <a href="http://jira.bigo.sg:8080/browse/SEC-392">主机[199.91.72.34] 存在漏洞[75143] Memcached 未授权访问漏洞</a>
+                <a href="http://aaa.com:8080/browse/SEC-393">主机[1.1.1.1] 存在漏洞[75143] Memcached 未授权访问漏洞</a>
             </p>
             <p>
-                <a href="http://jira.bigo.sg:8080/browse/SEC-393">主机[199.91.72.34] 存在漏洞[75143] Memcached 未授权访问漏洞</a>
+                <a href="http://aaa.com:8080/browse/SEC-393">主机[1.1.1.1] 存在漏洞[75143] Memcached 未授权访问漏洞</a>
             </p>
         </td>
         '''
